@@ -1,4 +1,4 @@
-In this repositories, I have organized three projects that I am involved in: White Matter fMRI, Infantile Esotropia and Ferritin Surface Display.
+In this repository, I have organized three projects that I am involved in: White Matter fMRI, Infantile Esotropia and Ferritin Surface Display.
 
 Project 1: Whita Matter fMRI (sole first author)
 
