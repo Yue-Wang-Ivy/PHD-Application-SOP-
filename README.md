@@ -29,3 +29,7 @@ Title: Multivalent display technologies on protein nanoparticle surfaces: Design
 *Contributed to the design of project content / 
 *Conducted hands-on project experiments / 
 *Contributed to the analysis of results 
+
+
+I also presented a poster at the OHBM conference.
+![OHBM-海报第二版](https://github.com/user-attachments/assets/100a239e-081f-4bad-92bb-98ed141b99f9)
