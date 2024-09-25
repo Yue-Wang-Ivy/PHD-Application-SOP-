@@ -5,6 +5,9 @@ Project 1: Whita Matter fMRI (sole first author)
 Title: Direct coupling of brain structural and functional information within white matter: a unified framework (manuscript in preparation)
 ![image](https://github.com/user-attachments/assets/e2c8ef54-8201-4846-99e2-4e685d9dccba)
 
+I also presented a poster at the OHBM conference.
+![OHBM-海报第二版](https://github.com/user-attachments/assets/100a239e-081f-4bad-92bb-98ed141b99f9)
+
 *Contributed to the proposal of innovative ideas during the initial phase /
 *Contributed to the development of the methodology /
 *Responsible for data preprocessing and code writing / 
@@ -31,5 +34,3 @@ Title: Multivalent display technologies on protein nanoparticle surfaces: Design
 *Contributed to the analysis of results 
 
 
-I also presented a poster at the OHBM conference.
-![OHBM-海报第二版](https://github.com/user-attachments/assets/100a239e-081f-4bad-92bb-98ed141b99f9)
