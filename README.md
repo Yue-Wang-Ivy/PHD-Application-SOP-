@@ -1,4 +1,4 @@
-In this repository, I have organized three projects that I am involved in: White Matter fMRI, Infantile Esotropia and Ferritin Surface Display.
+### In this repository, I have organized three projects that I am involved in: White Matter fMRI, Infantile Esotropia and Ferritin Surface Display.
 
 Project 1: Whita Matter fMRI (sole first author)
 
@@ -6,6 +6,7 @@ Title: Direct coupling of brain structural and functional information within whi
 ![image](https://github.com/user-attachments/assets/e2c8ef54-8201-4846-99e2-4e685d9dccba)
 
 I also presented a poster at the OHBM conference.
+
 ![OHBM-海报第二版](https://github.com/user-attachments/assets/100a239e-081f-4bad-92bb-98ed141b99f9)
 
 *Contributed to the proposal of innovative ideas during the initial phase /
