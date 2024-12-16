@@ -4,7 +4,8 @@
 
 ## Title: Direct coupling of brain structural and functional information within white matter: a unified framework (manuscript in preparation)
 ![image](https://github.com/user-attachments/assets/e2c8ef54-8201-4846-99e2-4e685d9dccba)
-![image](https://github.com/user-attachments/assets/aa9d64e7-8826-4d71-8b24-cf1f78b0923b)
+![figure1_method_画板 1](https://github.com/user-attachments/assets/d1e7ff8a-18ef-4173-8d7c-ef38e247f67f)
+
 ## I also presented a poster at the OHBM conference.
 
 ![OHBM-海报第二版](https://github.com/user-attachments/assets/100a239e-081f-4bad-92bb-98ed141b99f9)
