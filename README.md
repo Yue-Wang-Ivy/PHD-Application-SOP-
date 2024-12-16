@@ -41,6 +41,6 @@
 ### In progress.
 ### The gradient of neural receptors was calculated using python code and verified by spin test.
 ### *Contributed to the development of the methodology /
-### **Responsible for neuromap analysis / 
+### *Responsible for neuromap analysis / 
 
 
