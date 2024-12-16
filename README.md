@@ -8,6 +8,7 @@
 ## I also presented a poster at the OHBM conference.
 
 ![OHBM-海报第二版](https://github.com/user-attachments/assets/100a239e-081f-4bad-92bb-98ed141b99f9)
+![image](https://github.com/user-attachments/assets/aa9d64e7-8826-4d71-8b24-cf1f78b0923b)
 
 ### *Contributed to the proposal of innovative ideas during the initial phase /
 ### *Contributed to the development of the methodology /
