@@ -40,5 +40,7 @@
 ## Project 4: Contrastive Machine Learning for Inherent Spatiotemporal Representations in Resting fMRl
 ### In progress.
 ### The gradient of neural receptors was calculated using python code and verified by spin test.
+### *Contributed to the development of the methodology /
+### **Responsible for neuromap analysis / 
 
 
